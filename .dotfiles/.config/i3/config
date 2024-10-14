@@ -41,8 +41,8 @@ bindsym XF86AudioPrev exec playerctl previous
 # ---------------------------------------------------------
 # if doeesn't work use
 # sudo usermod -aG video ${USER}
-bindsym XF86MonBrightnessUp exec --no-startup-id brightnessctl set +5%
-bindsym XF86MonBrightnessDown exec --no-startup-id brightnessctl set 5%-
+bindsym F4 exec --no-startup-id brightnessctl set +5%
+bindsym F3 exec --no-startup-id brightnessctl set 5%-
 
 # XRANDR - setup monitors
 # ---------------------------------------------------------
@@ -270,5 +270,5 @@ exec_always --no-startup-id ~/.config/polybar/polybar_launch.sh
 
 # Wallpaper
 # ---------------------------------------------------------
-# exec_always --no-startup-id feh --bg-max ~/Pictures/wallpaper.jpg
-exec_always --no-startup-id nitrogen --restore
+exec_always --no-startup-id feh --bg-max ~/Pictures/wallpaper.jpg
+# exec_always --no-startup-id nitrogen --restore
