@@ -7,7 +7,7 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**Senior C++ / Golang Software Engineer** with 7+ years of experience and a Computer Science background. Focused on **Backend development**, with additional expertise in **Embedded systems**, **Game development**, and **High-Frequency Trading (HFT)**. Skilled in mentoring on best practices and advanced techniques. Passionate about high-performance solutions and modern tech, with a keen interest in exploring new tools and languages through personal projects.
+**Senior Software Engineer** focused on **Backend development**, with additional expertise in **Embedded systems**, **Game development**, and **High-Frequency Trading (HFT)**.
 
 I am also
 - ⌛ Pet project maker
@@ -17,19 +17,6 @@ I am also
 - 🍿 Movie watcher
 - ✈️ Traveler
 
-
-# Expertise
-
-- Main Languages: C++, Modern C++, C, Golang
-- Working knowledge of : Python, Bash, Javascript, C#, Java, HTML, CSS
-- Frameworks/Libraries : REST APIs, JSON-RPC, STL, BOOST, Make, CMake, ImGUI, Wails, Tailwind CSS, React
-- Databases : SQL, SQLite, PostgreSQL, Oracle SQL, DBeaver
-- Version Control : Git, GitLab, GitHub
-- DevOps : Docker, CI/CD pipelines, Gitlab pipelines, Github Actions
-- OS : Linux, Ubuntu, Windows 10-11, WSL, MacOS
-- Design Principles and Patterns : Test Driven Development (TDD), Domain Driven Development (DDD), MVC, SOLID, DRY, KISS
-- Work Management : Jira, Wrike, Slack, Microsoft Teams
-- Other :  Multithreading, Memory Management, Agile Methodologies, Scrum,  Github Copilot, Cursor IDE...
 
 # PERSONAL PROJECTS
 
